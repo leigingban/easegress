@@ -14,7 +14,7 @@ require (
 	github.com/go-chi/chi/v5 v5.0.7
 	github.com/go-zookeeper/zk v1.0.2
 	github.com/goccy/go-json v0.9.6
-	github.com/golang-jwt/jwt v3.2.1+incompatible
+	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/websocket v1.5.0
 	github.com/hashicorp/consul/api v1.12.0
