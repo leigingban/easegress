@@ -35,7 +35,7 @@ require (
 	github.com/megaease/easemesh-api v1.3.5
 	github.com/megaease/grace v1.0.0
 	github.com/mitchellh/mapstructure v1.4.3
-	github.com/nacos-group/nacos-sdk-go v1.1.0
+	github.com/nacos-group/nacos-sdk-go v1.1.2
 	github.com/openzipkin/zipkin-go v0.4.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
@@ -197,7 +197,6 @@ require (
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20201229170055-e5319fda7802 // indirect
-	github.com/toolkits/concurrent v0.0.0-20150624120057-a4371d70e3e3 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/vultr/govultr/v2 v2.11.0 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
